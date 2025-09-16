@@ -4,9 +4,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm S1DD, a passionate software engineer and fullstack developer from South Africa that is constantly exploring new technologies and building impactful projects.  
+<p>I'm S1DD, a passionate software engineer and fullstack developer from South Africa that is constantly exploring new technologies and building impactful projects.  
 From backend APIs to full-stack apps, I love turning ideas into reality and solving real-world challenges.
-I learn best either by diving head first and figuring things out as i go or by collaborating with others who are more knowledgable than me.
+I learn best either by diving head first and figuring things out as i go or by collaborating with others who are more knowledgable than me.</p>
 
 
 ---
@@ -17,6 +17,7 @@ I learn best either by diving head first and figuring things out as i go or by c
   <img src="https://skillicons.dev/icons?i=c,java,py,flask,babel,js,html,css,bootstrap,git,postman,sqlite,redis,express,nextjs,nginx,mongodb,linux,nodejs,mysql,nextjs,vscode,pycharm,webstorm,xd&perline=8" />
 </div>
 
+---
 ## 📈 GitHub Stats
 
 <!-- GitHub Stats -->
