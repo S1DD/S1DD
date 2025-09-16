@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey,+I'm+S1DD!;Welcome+to+my+Coding+Universe;Open+Source+Enthusiast;Backend+%26+Full-Stack+Developer;Always+Learning,+Always+Building!+🚀" alt="Typing SVG" />
-</p>
+## Hello I'm S1DD 👋
 
 ---
 
