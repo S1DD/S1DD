@@ -19,11 +19,16 @@ I learn best either by diving head first and figuring things out as i go or by c
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S1DD&show_icons=true&theme=tokyonight" alt="S1DD's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S1DD&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- GitHub Stats -->
+<a href="https://github.com/S1DD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S1DD&show_icons=true&theme=tokyonight" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/S1DD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1DD&layout=compact&theme=tokyonight" />
+</a>
+
 
 ---
 
